@@ -39,7 +39,7 @@ A full-stack workspace for CV generation, vacancy and company research, applicat
 
 `Next.js` `NestJS` `TypeScript` `Prisma` `PostgreSQL` `n8n` `Docker`
 
-### Rimonim · Google-supported university project
+### [Rimonim](https://github.com/olimsBgu) · Google-supported university project
 
 Led a four-person team building a digital product with Israel's Ministry of Aliyah and Integration. Coordinated delivery across product and engineering and helped improve user engagement by **21%**.
 
