@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Israel-0B0F0E?style=for-the-badge&logo=googlemaps&logoColor=7CF7B4" alt="Israel" />
 </div>
 
-## I build systems that turn noisy data into useful decisions.
-
 Full-stack engineer with **4+ years of production experience** across cybersecurity, data-intensive products, FinTech, and Web3. I work end to end—from React interfaces and Node.js APIs to Python pipelines, PostgreSQL data models, cloud infrastructure, and ML-assisted features.
 
 Currently completing a **B.Sc. in Information Systems Engineering at Ben-Gurion University** while looking for a team where I can own meaningful product and engineering problems.
@@ -56,12 +54,14 @@ Daily work with **Claude Code**, **OpenAI Codex**, and task-specific agents for 
 
 ## Earlier experience
 
-**PRODCREATORS LABS · Full-Stack Engineer** — Delivered production React and Next.js systems for B2B, FinTech, and Web3 products; contributed to a performance program that reduced average response time from approximately **3s to 1s**.
+**PRODCREATORS LABS · Full-Stack Engineer** 
 
-**DigitalSkills'22 · 1st place** — Winner among 15 competing teams.
+**DigitalSkills'22 · 1st place** — Kazan, Russia. Winner among 15 competing teams.
+
+**WorldSkills'22 · 1st place** — St. Petersburg, Russia. Winner among 12 competing teams.
 
 ---
 
 <div align="center">
-  <sub>Open to full-stack and software engineering opportunities in Israel.</sub>
+  <sub>Open to full-stack and software engineering opportunities in Israel and around the world.</sub>
 </div>
