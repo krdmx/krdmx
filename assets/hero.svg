@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Maxim Krendel — Full-Stack Engineer</title>
+  <desc id="desc">A graphite and green technical banner with data-flow lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080C0B"/>
+      <stop offset="0.55" stop-color="#101816"/>
+      <stop offset="1" stop-color="#07110D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7CF7B4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7CF7B4" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#7CF7B4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#42D98A" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#42D98A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#C8FDE0" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="165" r="260" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <path d="M680 72C790 72 790 132 900 132S1010 72 1120 72"/>
+    <path d="M640 176C760 176 760 226 880 226S1000 176 1140 176"/>
+    <path d="M720 284C800 284 825 250 900 250S1030 306 1150 306"/>
+  </g>
+  <g fill="#7CF7B4">
+    <circle cx="900" cy="132" r="4"/><circle cx="880" cy="226" r="4"/><circle cx="900" cy="250" r="4"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="72" y="94" fill="#7CF7B4" font-size="18" font-weight="700" letter-spacing="5">FULL-STACK ENGINEER</text>
+    <text x="68" y="174" fill="#F1FFF7" font-size="58" font-weight="750" letter-spacing="1.5">Maxim Krendel</text>
+    <text x="72" y="224" fill="#B5C9BE" font-size="22" letter-spacing="1.2">Web · Data · ML · Cybersecurity</text>
+    <text x="72" y="294" fill="#7CF7B4" font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">building reliable systems from interface to infrastructure_</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#7CF7B4" stroke-opacity="0.18"/>
+</svg>
