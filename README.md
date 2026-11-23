@@ -31,7 +31,7 @@ Designed multi-tenant ingestion and correlation pipelines that normalized roughl
 
 `Python` `Node.js` `TypeScript` `Vue` `PostgreSQL` `Docker` `AWS` `ML`
 
-### [PEP / Fitev](https://github.com/krdmx/Fitev) · Local-first career workspace
+### [Fitev](https://github.com/krdmx/Fitev) · Local-first career workspace
 
 A full-stack workspace for CV generation, vacancy and company research, application tracking, workflow automation, and PDF export. Built as a modular monorepo with a Next.js frontend, NestJS API, Prisma/PostgreSQL, n8n, Gotenberg, Caddy, and Docker Compose.
 
